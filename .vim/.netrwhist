@@ -1,2 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =0
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/Wash/f_u_t_u_r_e_w_a_v_e/src/lib'
+let g:netrw_dirhist_2='/Users/Wash/f_u_t_u_r_e_w_a_v_e/src/app/midi_file_app'
+let g:netrw_dirhist_3='/Users/Wash/f_u_t_u_r_e_w_a_v_e/src/test'
+let g:netrw_dirhist_4='/Users/Wash/f_u_t_u_r_e_w_a_v_e/src/lib/midifile_temp'
+let g:netrw_dirhist_5='/Users/Wash/MainWiki/.git'
+let g:netrw_dirhist_6='/Users/Wash/bikes/src/lib/patterson'
+let g:netrw_dirhist_7='/Users/Wash/f_u_t_u_r_e_w_a_v_e/src/lib/server'

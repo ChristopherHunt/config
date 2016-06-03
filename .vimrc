@@ -1,8 +1,15 @@
-" Colorscheme
-colorscheme molokai
-let g:rehash256 = 1
+" Molokai Colorscheme
+"colorscheme molokai
+"let g:rehash256 = 1
 " let &t_Co=256
-set t_Co=256
+"set t_Co=256
+
+" Solarixed Colorscheme
+syntax enable
+set background=dark
+colorscheme solarized
+"let g:solarized_menu=0
+
 syntax on
 
 filetype plugin on
